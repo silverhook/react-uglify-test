@@ -1,3 +1,9 @@
+/*!
+ * SPDX-SnippetBegin
+ * SPDX-SnippetCopyrightText: CSSesna
+ * SPDX-License-Identifier: MIT
+ */
+
 .App {
   text-align: center;
 }
@@ -36,3 +42,5 @@
     transform: rotate(360deg);
   }
 }
+
+/*! SPDX-SnippetEnd */

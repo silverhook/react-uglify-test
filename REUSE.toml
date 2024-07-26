@@ -1,0 +1,16 @@
+version = 1
+
+[[annotations]]
+path = ["package.json", "package-lock.json", "public/manifest.json"]
+SPDX-FileCopyrightText = "2020 PackagingBeaver"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = ["public/*.ico", "public/*.png"]
+SPDX-FileCopyrightText = "2019 Jane Doe"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = ["REUSE.toml"]
+SPDX-FileCopyrightText = "© 2024 Matija Šuklje <https://matija.suklje.name>"
+SPDX-License-Identifier = "CC0-1.0"

@@ -1,7 +1,7 @@
 /*!
- * This is a special comment that will be preserved.
- * Author: Your Name
- * License: MIT
+ * SPDX-SnippetBegin
+ * SPDX-SnippetCopyrightText: Some Dude
+ * SPDX-License-Identifier: MIT
  */
 import React from 'react';
 
@@ -15,3 +15,4 @@ function SpecialComponent() {
 
 export default SpecialComponent;
 
+//! SPDX-SnippetEnd

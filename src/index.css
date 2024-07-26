@@ -1,3 +1,9 @@
+/*!
+ * SPDX-SnippetBegin
+ * SPDX-SnippetCopyrightText: 2020 Lady Hacker
+ * SPDX-License-Identifier: CC0-1.0
+ */
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,3 +17,5 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/*! SPDX-SnippetEnd */

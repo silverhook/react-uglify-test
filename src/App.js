@@ -1,3 +1,9 @@
+/*!
+ * SPDX-SnippetBegin
+ * SPDX-SnippetCopyrightText: © 2023 AppMaker
+ * SPDX-License-Identifier: WTFPL
+ */
+
 import React from 'react';
 import './App.css';
 import SpecialComponent from './SpecialComponent';
@@ -14,3 +20,4 @@ function App() {
 
 export default App;
 
+//! SPDX-SnippetEnd
